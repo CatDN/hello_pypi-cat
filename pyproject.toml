@@ -1,5 +1,5 @@
 [project]
-name = "hello-pypi"
+name = "hello_pypi-cat"
 version = "0.0.1"
 authors = [
   { name="Cat", email="author@example.com" },
