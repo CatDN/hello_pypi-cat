@@ -1,5 +1,5 @@
 # hello_pypi-cat
-Simple python package configuration for publishing to pypi.
+Simple python package configuration for publishing to pypi (test pypi in this case).
 
 ## How to:
 
